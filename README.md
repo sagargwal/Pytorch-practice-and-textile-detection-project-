@@ -27,7 +27,9 @@ Make sure you have the following dependencies:
 
 ## Install Dependencies
 To install all the dependencies, use the following:
-
+```bash
+pip install requesment.txt
+```
 
 
 # ⚙️ Setup and Usage
