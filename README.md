@@ -25,7 +25,7 @@ Make sure you have the following dependencies:
 - **Streamlit**: Frontend for interacting with the model
 - **Other dependencies**: Requests, Pillow, numpy
 
-### Install Dependencies
+## Install Dependencies
 To install all the dependencies, use the following:
 
 ```bash
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ## ⚙️ Setup and Usage
 
-### 1. Clone the Repository
+## 1. Clone the Repository
 Clone this repo to your local machine:
 
 ```bash
