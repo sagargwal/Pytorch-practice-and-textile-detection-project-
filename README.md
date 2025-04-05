@@ -1,4 +1,4 @@
-# Pytorch Learning 
+# Pytorch Learning (notes in pytorch_practice.py)
 ## 5 Key Things I Learned:
 Creating custom datasets using torch.utils.data.Dataset and loading them efficiently with DataLoader
 
