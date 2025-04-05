@@ -61,7 +61,9 @@ Run the Streamlit app to interact with the model via the web interface:
 streamlit run app.py
 ```
 This will open a new tab in your browser where you can upload images and see predictions.
-
+## model weights
+get model weights from hugging face 
+https://huggingface.co/spaces/sagariitd/textile-defect-detector/tree/main
 🌐 Deployment
 This app has been deployed for free on Hugging Face Spaces.
 https://huggingface.co/spaces/sagariitd/textile-defect-detector
