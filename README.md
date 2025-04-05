@@ -28,10 +28,9 @@ Make sure you have the following dependencies:
 ## Install Dependencies
 To install all the dependencies, use the following:
 
-```bash
-pip install -r requirements.txt
 
-## ⚙️ Setup and Usage
+
+# ⚙️ Setup and Usage
 
 ## 1. Clone the Repository
 Clone this repo to your local machine:
@@ -39,7 +38,7 @@ Clone this repo to your local machine:
 ```bash
 git clone https://github.com/yourusername/textile-defect-detection.git
 cd textile-defect-detection
-
+```
 2. Model Setup
 The model model_fold1.pth was trained using the Textile Defect Dataset from Kaggle.
 
@@ -50,6 +49,7 @@ Run the Flask backend to expose the model for predictions:
 
 ```bash
 python main.py
+```
 The API will be running on http://127.0.0.1:5000.
 
 4. Running the Frontend (Streamlit)
@@ -57,6 +57,7 @@ Run the Streamlit app to interact with the model via the web interface:
 
 ```bash
 streamlit run app.py
+```
 This will open a new tab in your browser where you can upload images and see predictions.
 
 🌐 Deployment
