@@ -1,3 +1,26 @@
+# Pytorch Learning 
+## 5 Key Things I Learned:
+Creating custom datasets using torch.utils.data.Dataset and loading them efficiently with DataLoader
+
+Writing my own neural network model class using nn.Module
+
+Implementing a custom training loop with flexibility in loss functions and optimizers
+
+Structuring projects with prediction and evaluation functions for real-world use
+
+Understanding how data moves through layers, and how PyTorch handles autograd and backpropagation
+
+## 🎯 Applying What I Learned:
+I applied this knowledge to build a Textile Defect Detection model using microscopic image data from Kaggle:
+🔗 https://www.kaggle.com/datasets/belkhirnacim/textiledefectdetection
+
+Trained a deep learning model on textile defect images using PyTorch
+
+Created a Flask backend for inference
+
+Designed a Streamlit frontend for user interaction
+
+Deployed the entire app for free on Hugging Face Spaces 🌐
 # Textile Defect Detection with PyTorch
 
 **A deep learning model for detecting textile defects using microscopic images.**
